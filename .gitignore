@@ -1,0 +1,13 @@
+# images
+*.jpg
+*.jpeg
+*.png
+
+# venv
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# project
+out/*.txt
